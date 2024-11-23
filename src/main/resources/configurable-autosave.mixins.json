@@ -3,7 +3,7 @@
 	"package": "dev.flatkat.configurable_autosave.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-
+		"MinecraftServerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
