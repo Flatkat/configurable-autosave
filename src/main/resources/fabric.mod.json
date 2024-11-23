@@ -3,9 +3,9 @@
 	"id": "configurable-autosave",
 	"version": "${version}",
 	"name": "Configurable AutoSave",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Allows you to configure the time for autosaving a world, or disable it completely",
 	"authors": [
-		"Me!"
+		"Flatkat"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
